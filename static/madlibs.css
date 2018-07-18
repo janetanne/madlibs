@@ -1,0 +1,28 @@
+body {
+	font-family: monospace;
+	background-color: LemonChiffon;
+}
+
+ul {
+	background-color: Lavender;
+	border: dotted 3px black;
+	border-radius: 5px;
+	padding: 20px;
+	width: 330px;
+}
+
+h1 {
+	color: #ADD8E6;
+	font-family: sans-serif;
+}
+
+.name {
+	font-weight: bolder;
+}
+
+.topic {
+	color: LightPink;
+	font-weight: bold;
+	font-family: monospace;
+	font-size: 16px;
+}
